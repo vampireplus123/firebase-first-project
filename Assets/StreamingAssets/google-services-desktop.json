@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "862316984432",
+    "project_id": "basic-b9f99",
+    "storage_bucket": "basic-b9f99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862316984432:android:30eecc8bc2d987ac969cb5",
+        "android_client_info": {
+          "package_name": "com.Amod.basic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDqrTqa17H5lNy0BlkqDgToBqH9Xd8dl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
